@@ -6,7 +6,7 @@ De la frustració i les hores invertides a transformar arxius, geolocalitzar i f
 Si tens la base d'un mapa que no està al repositori o vols proposar un mapa que no trobes per enlloc, escriu-me a **navarrosolerlaura@gmail.com** o per Twitter a **@LauraNavarroSol**.
 
 ## Mapes (SVG, SHP, GeoJSON, csv)
-* [Seccions censals](#seccions-censals-bcn)
+* [Seccions censals](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/seccions-censals-bcn)
 * [Barcelona](#Barcelona)
 * [AEB](#AEB-bcn)
 * [Barris](#barris-bcn)
