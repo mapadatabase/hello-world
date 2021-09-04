@@ -5,10 +5,46 @@ De la frustració i les hores invertides a transformar arxius, geolocalitzar i f
 
 Si tens la base d'un mapa que no està al repositori o vols proposar un mapa que no trobes per enlloc, escriu-me a **navarrosolerlaura@gmail.com** o per Twitter a **@LauraNavarroSol**.
 
-## Mapes (SVG, SHP, GeoJSON, csv)
-### Barcelona
-* [Seccions censals](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/seccions-censals-bcn)
-* [Arees Estadístiques Bàsiques (AEB)](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/AEB-bcn)
-* [Barris](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/barris-bcn)
-* [Districtes](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/districtes-bcn)
-* [Terme Municipal](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/terme-municipal-bcn)
+## Mapes de Catalunya (SVG, SHP, GeoJSON, csv)
+### Catalunya
+   #### -Seccions censals
+   #### -Àrees Bàsiques de Salut (ABS)
+   #### -Àrees Estadístiques Bàsiques (AEB)
+   #### -Municipis
+   #### -Comarques
+   #### -Regions Sanitàries
+   #### -Províncies
+   #### -Delimitació territorial
+
+### Província de Lleida
+   #### -Municipis
+### Província de Girona
+   #### -Municipis
+### Província de Barcelona
+   #### -Municipis
+### Província de Tarragona
+   #### -Municipis
+
+## AMB
+
+
+## Ciutats
+### [Barcelona](https://github.com/mapadatabase/hello-world/tree/main/Barcelona)
+   #### -Seccions Censals
+   #### -AEB
+   #### -ABS
+   #### -Barris
+   #### -Districtes
+   #### -Terme municipal
+   
+### [Badalona]()
+### [Sant Cugat]()
+### [Terrassa]()
+
+
+
+Fonts: 
+-
+
+
+
