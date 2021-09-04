@@ -1,0 +1,100 @@
+ID_ANNEX,ANNEXDESCR,ID_TEMA,TEMA_DESCR,ID_CONJUNT,CONJ_DESCR,ID_SUBCONJ,SCONJ_DESC,ID_ELEMENT,ELEM_DESCR,NIVELL,NDESCR_CA,NDESCR_ES,NDESCR_EN,TERME,DISTRICTE,BARRI,AEB,SEC_CENS,GRANBARRI,ZUA,AREA_I,LITERAL,PERIMETRE,AREA,ORD_REPRES,CODI_UA,TIPUS_UA,NOM,WEB1,WEB2,WEB3,DOCUMENTA,RANGESCALA,TIPUS_POL,GRUIX_ID,GRUIXDIMEN,ESTIL_ID,ESTIL_QGIS,VALOR1QGIS,VALOR2QGIS,COL_FARCIT,FCOL_DESCR,FHEX_COLOR,COL_DESCR,HEX_COLOR7
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,05,-,-,-,21,-,-,21,5176.875,1669219.723,3,21,GRANBARRI,"Sarrià, les Tres Torres i Vallvidrera
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,06,-,-,-,22,-,-,22,9361.261,2252563.218,3,22,GRANBARRI,"Vallcarca, el Coll i la Salut
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,06,-,-,-,23,-,-,23,4782.759,1321188.114,3,23,GRANBARRI,"la Vila de Gràcia
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,06,-,-,-,24,-,-,24,3851.398,650526.507,3,24,GRANBARRI,"el Camp d'en Grassot i Gràcia Nova
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,07,-,-,-,25,-,-,25,7645.751,1871199.107,3,25,GRANBARRI,"el Guinardó
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,07,-,-,-,26,-,-,26,7074.038,1324174.165,3,26,GRANBARRI,"el Carmel i Can Baró
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,07,-,-,-,27,-,-,27,12914.324,4997016.939,3,27,GRANBARRI,"els Barris de la Vall d'Hebron
+
+
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,07,-,-,-,28,-,-,28,14155.146,3727240.619,3,28,GRANBARRI,"Horta i la Font d'en Fargues
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,08,-,-,-,29,-,-,29,6838.14,1874002.087,3,29,GRANBARRI,"Vilapicina, Porta, el Turó de la Peira i Can Peguera",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,08,-,-,-,30,-,-,30,5906.601,1440294.712,3,30,GRANBARRI,"la Guineueta, Verdun i la Prosperitat
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,08,-,-,-,31,-,-,31,8914.641,2009826.159,3,31,GRANBARRI,"Canyelles, les Roquetes i la Trinitat Nova
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,08,-,-,-,32,-,-,32,8449.585,2732344.841,3,32,GRANBARRI,"Torre Baró, Ciutat Meridiana i Vallbona
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,09,-,-,-,33,-,-,33,11158.638,2905710.322,3,33,GRANBARRI,"la Trinitat Vella, Baró de Viver i el Bon Pastor
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,09,-,-,-,34,-,-,34,6482.287,1867419.186,3,34,GRANBARRI,Sant Andreu,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,09,-,-,-,35,-,-,35,6318.091,1819350.426,3,35,GRANBARRI,"la Sagrera, el Congrés i Navas
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,10,-,-,-,36,-,-,36,5093.694,1437425.207,3,36,GRANBARRI,"el Clot i el Camp de l'Arpa
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,10,-,-,-,37,-,-,37,11173.776,2046881.353,3,37,GRANBARRI,"el Parc, la Llacuna i la Vila Olímpica
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,10,-,-,-,38,-,-,38,8890.493,2793983.104,3,38,GRANBARRI,"el Poblenou i Diagonal Mar
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,10,-,-,-,39,-,-,39,11399.174,2294441.094,3,39,GRANBARRI,"el Besòs, el Maresme i Provençals
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,10,-,-,-,40,-,-,40,5988.756,1863967.412,3,40,GRANBARRI,"Sant Martí, la Verneda i la Pau
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,01,-,-,-,01,-,-,01,5521.647,1100286.137,3,01,GRANBARRI,"el Raval
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,01,-,-,-,02,-,-,02,5198,815593.938,3,02,GRANBARRI,"el Barri Gòtic
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,01,-,-,-,03,-,-,03,13853.129,1179381.956,3,03,GRANBARRI,la Barceloneta,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,01,-,-,-,04,-,-,04,4664.483,1109668.777,3,04,GRANBARRI,"Sant Pere, Santa Caterina i la Ribera
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,05,-,-,05,4137.329,929355.787,3,05,GRANBARRI,el Fort Pienc,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,06,-,-,06,4358.094,1041829.343,3,06,GRANBARRI,la Sagrada Família,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,07,-,-,07,6444.11,2119874.214,3,07,GRANBARRI,"la Dreta de l'Eixample
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,08,-,-,08,4844.397,1228435.836,3,08,GRANBARRI,"l'Antiga Esquerra de l'Eixample
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,09,-,-,09,4652.063,1340701.157,3,09,GRANBARRI,la Nova Esquerra de l'Eixample,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,02,-,-,-,10,-,-,10,4717.236,804106.878,3,10,GRANBARRI,"Sant Antoni
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,03,-,-,-,11,-,-,11,9922.598,4585321.403,3,11,GRANBARRI,"el Poble Sec i Montjuïc
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,03,-,-,-,12,-,-,12,46263.82,15506086.001,3,12,GRANBARRI,"la Marina i la Zona Franca - Port
+
+
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,03,-,-,-,13,-,-,13,6855.648,1279209.749,3,13,GRANBARRI,"la Font de la Guatlla, Hostafrancs i la Bordeta
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,03,-,-,-,14,-,-,14,5884.713,1509232.897,3,14,GRANBARRI,Sants i Badal,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,04,-,-,-,15,-,-,15,4966.151,1410409.555,3,15,GRANBARRI,"les Corts
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,04,-,-,-,16,-,-,16,6378.743,1915370.919,3,16,GRANBARRI,"la Maternitat i Sant Ramon
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,04,-,-,-,17,-,-,17,8821.026,2684988.562,3,17,GRANBARRI,Pedralbes,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,05,-,-,-,18,-,-,18,32394.779,11329441.613,3,18,GRANBARRI,"Vallvidrera, el Tibidabo i les Planes
+",,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,05,-,-,-,19,-,-,19,11538.12,3835403.832,3,19,GRANBARRI,Sarrià i les Tres Torres,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
+01,Grup - I,0104,Unitats Administratives,010417,Gran barri,01041701,Gran barri,0104170101,Límits gran barri,ADM_08_PL,Límit gran barri (polígon),Límite gran barrio (polígono),Big Neighborhood boundary (polygon),080193,05,-,-,-,20,-,-,20,10724.511,3081500.999,3,20,GRANBARRI,Sant Gervasi - la Bonanova i el Putget,,,,,1-50000,,5,60,0,Sòlid,0,0,41,NULL,#E66900,NULL,#E66900
