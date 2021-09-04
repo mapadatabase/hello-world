@@ -7,8 +7,7 @@ Si tens la base d'un mapa que no està al repositori o vols proposar un mapa que
 
 ## Mapes (SVG, SHP, GeoJSON, csv)
 * [Seccions censals](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/seccions-censals-bcn)
-* [Barcelona](#Barcelona)
-* [AEB](#AEB-bcn)
-* [Barris](#barris-bcn)
-* [Districtes](#districtes-bcn)
-* [Terme Municipal](#terme-municipal-barcelona)
+* [AEB](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/AEB-bcn)
+* [Barris](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/barris-bcn)
+* [Districtes](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/districtes-bcn)
+* [Terme Municipal](https://github.com/mapadatabase/hello-world/tree/main/Barcelona/terme-municipal-bcn)
